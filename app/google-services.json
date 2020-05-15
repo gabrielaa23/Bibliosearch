@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919606279212",
+    "firebase_url": "https://poo2-999d4.firebaseio.com",
+    "project_id": "poo2-999d4",
+    "storage_bucket": "poo2-999d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919606279212:android:f1e8d79e94f8ffe8f46589",
+        "android_client_info": {
+          "package_name": "com.bibliosearch.poo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919606279212-h15ujfqqb0ph0ei1uu0r1rbrcavsu4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSogwdq2CbgC3FMkeMISynU8L_imXfL8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919606279212-h15ujfqqb0ph0ei1uu0r1rbrcavsu4aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
